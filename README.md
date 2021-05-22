@@ -1,4 +1,4 @@
 # Person-Re-identification-using-facial-features
 
-Intall required dependencies
-run extract.py
+1)Install required dependencies
+2)run extract.py
